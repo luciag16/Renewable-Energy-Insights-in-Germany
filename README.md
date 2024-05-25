@@ -6,8 +6,7 @@ This repository contains a Power BI project that provides insights into renewabl
 
 - `renewable_energies.pbix`: The Power BI project file.
 - `renewable_energies.pdf`: A PDF export of the Power BI report.
-- `screenshots/`: A folder containing screenshots of the report pages.
-- `scripts/data_cleaning.py`: Python script used for data cleaning and preprocessing.
+- `avoided_greenhouse.ipynb`, `balances.ipynb', 'contribution_cons.ipynb`, 'share_energy_germany.ipynb': Python scripts used for data cleaning and preprocessing (Jupyter Notebbok).
 
 ## Viewing the Project
 
@@ -16,13 +15,10 @@ This repository contains a Power BI project that provides insights into renewabl
    - Open it in [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 
 2. **PDF Report**:
-   - Open the `report.pdf` file to view the report in PDF format.
+   - Open the `renewable_energies.pdf` file to view the report in PDF format.
 
-3. **Screenshots**:
-   - View the screenshots in the `screenshots/` folder for a quick overview of the report pages.
-
-4. **Python Scripts**:
-   - The `scripts/data_cleaning.py` file contains the code used for data cleaning and preprocessing. This script demonstrates the steps taken to prepare the data for analysis in Power BI.
+3. **Python Scripts**:
+   - Jupyter Notebooks files that contain the codes used for data cleaning and preprocessing. These scripts demonstrate the steps taken to prepare the data for analysis in Power BI.
 
 ## About the Project
 
