@@ -6,7 +6,7 @@ This repository contains a Power BI project that provides insights into renewabl
 
 - `renewable_energies.pbix`: The Power BI project file.
 - `renewable_energies.pdf`: A PDF export of the Power BI report.
-- `avoided_greenhouse.ipynb`, `balances.ipynb', 'contribution_cons.ipynb`, 'share_energy_germany_new.ipynb': Python scripts used for data cleaning and preprocessing (Jupyter Notebbok).
+- `avoided_greenhouse.ipynb`, `balances.ipynb`, `contribution_cons.ipynb`, `share_energy_germany_new.ipynb`: Python scripts used for data cleaning and preprocessing (Jupyter Notebbok).
 
 ## Viewing the Project
 
