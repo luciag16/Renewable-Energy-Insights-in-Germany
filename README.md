@@ -5,7 +5,7 @@ This repository contains a Power BI project that provides insights into renewabl
 ## Files
 
 - `renewable_energies.pbix`: The Power BI project file.
-- `report.pdf`: A PDF export of the Power BI report.
+- `renewable_energies.pdf`: A PDF export of the Power BI report.
 - `screenshots/`: A folder containing screenshots of the report pages.
 - `scripts/data_cleaning.py`: Python script used for data cleaning and preprocessing.
 
